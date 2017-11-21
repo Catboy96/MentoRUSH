@@ -9,16 +9,16 @@ Imports System.Runtime.InteropServices
 '查看程序集特性的值
 
 <Assembly: AssemblyTitle("MentoRUSH")>
-<Assembly: AssemblyDescription("MentoHUST & RJSupplicant Automate Utility")>
-<Assembly: AssemblyCompany("CYROFORCE.NET")>
+<Assembly: AssemblyDescription("MentoHUST Automating Utility")>
+<Assembly: AssemblyCompany("CYRO4S")>
 <Assembly: AssemblyProduct("MentoRUSH")>
-<Assembly: AssemblyCopyright("©2017 CYROFORCE.NET")>
-<Assembly: AssemblyTrademark("")>
+<Assembly: AssemblyCopyright("©2017 CYRO4S.")>
+<Assembly: AssemblyTrademark("MentoRUSH")>
 
 <Assembly: ComVisible(False)>
 
 '如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-<Assembly: Guid("eae2be82-4941-4c11-8081-79f0f70c0f5b")>
+<Assembly: Guid("0c66bcc5-d6c0-4dc4-9d92-748c63873be8")>
 
 ' 程序集的版本信息由下列四个值组成: 
 '
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' 方法是按如下所示使用“*”: :
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("2.0.0.0")>
+<Assembly: AssemblyFileVersion("2.0.0.0")>
